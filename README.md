@@ -1,3 +1,3 @@
 ## Unscramble App
-Built with Jetpack Compose
+Built with Jetpack Compose,
 Language used: Kotlin
